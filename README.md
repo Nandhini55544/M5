@@ -3,6 +3,7 @@ EX-21-POINTERS
 Write a C program to check whether the number 555 is even number or odd number using pointers. 
 
 ## ALGORITHM:
+```
 1.Start.
 2.Declare an integer variable and assign it the value 555.
 3.Declare a pointer and point it to the integer variable.
@@ -10,6 +11,7 @@ Write a C program to check whether the number 555 is even number or odd number u
 5.If remainder is 0, it's even; otherwise, it's odd.
 6.Display the result.
 7.End.
+```
 
 ## PROGRAM:
 ```
@@ -41,6 +43,7 @@ Thus the program to check whether the number 555 is even number or odd number us
 Write a C program to calculate the power for 8,4 using recursion.
 
 ## ALGORITHM:
+```
 1.Start.
 2.Define a recursive function power(base, exponent):
 3.If exponent is 0, return 1 (base case).
@@ -49,6 +52,7 @@ Write a C program to calculate the power for 8,4 using recursion.
 6.Call the recursive function and store the result.
 7.Display the result.
 8.End.
+```
 
 ## PROGRAM:
 ```
