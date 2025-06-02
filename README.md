@@ -135,7 +135,12 @@ Thus the program to find Sum of each row of a Matrix has been executed successfu
 
 ## AIM:
 
-Write C program for the below pyramid string pattern. Enter a string: PROGRAM Enter number of rows: 5 P R O G R A M P R O G R A M P R O G R A M
+Write C program for the below pyramid string pattern. Enter a string: PROGRAM Enter number of rows: 5 
+        P 
+      R O G
+    R A M P R
+  O G R A M P R
+  O G R A M
 
 ## ALGORITHM:
 
